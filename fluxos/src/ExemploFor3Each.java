@@ -1,6 +1,3 @@
-import java.util.ArrayList;
-import java.util.List;
-
 public class ExemploFor3Each {
     public static void main(String[] args) {
         String[] alunos = { "FELIPE", "JONAS", "JULIA", "MARCOS" };

@@ -3,7 +3,7 @@ public class ExemploFor3Each {
         String alunos[] = { "FELIPE", "JONAS", "JULIA", "MARCOS" };
 
         for (String aluno : alunos) {
-            System.out.println(alunos);
+            System.out.println(aluno);
         }
     }
 }
